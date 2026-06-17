@@ -5,15 +5,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+with+LLMs+and+RAG;Always+Learning+New+Things+🚀"/>
 
-<br><br>
-
-<img width="280" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
-
 </div>
 
 ---
 
 # 🤖 AI Dashboard
+
+<table>
+<tr>
+
+<td width="60%">
 
 ```yaml
 Name: Akash Patel
@@ -34,6 +35,17 @@ Currently Learning:
   - n8n
   - Vector Databases
 ```
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="280px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
