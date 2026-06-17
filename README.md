@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=AKASH%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=AKASH%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+with+LLMs+and+RAG;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+with+LLMs+and+RAG;Always+Learning+New+Things+🚀"/>
 
 </div>
 
@@ -13,7 +13,7 @@
 <table>
 <tr>
 
-<td width="65%">
+<td width="60%">
 
 ```yaml
 Name: Akash Patel
@@ -42,9 +42,9 @@ Currently Learning:
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-<img width="250" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
+<img width="220" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 
 </td>
 
@@ -71,12 +71,13 @@ Currently Learning:
 
 <div align="center">
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-informational?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-success?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-purple?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-orange?style=for-the-badge)
@@ -131,8 +132,6 @@ Currently Learning:
 
 Machine Learning based Loan Approval Prediction
 
-### Tech Stack
-
 `Python`
 `Pandas`
 `Scikit-Learn`
@@ -144,8 +143,6 @@ Machine Learning based Loan Approval Prediction
 
 Customer Segmentation using Unsupervised Learning
 
-### Tech Stack
-
 `Python`
 `Pandas`
 `Scikit-Learn`
@@ -155,7 +152,7 @@ Customer Segmentation using Unsupervised Learning
 
 # 🏆 Achievements
 
-🏅 Oracle Cloud Infrastructure (OCI) Generative AI Professional Certified
+🏅 OCI Generative AI Professional Certified
 
 🧠 Solved 200+ Coding Problems
 
@@ -170,6 +167,16 @@ Customer Segmentation using Unsupervised Learning
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=AkashPatel-22&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashPatel-22&theme=tokyonight"/>
 
 </div>
 
@@ -207,6 +214,8 @@ Customer Segmentation using Unsupervised Learning
 
 ### ⭐ Thanks for visiting my profile ⭐
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
