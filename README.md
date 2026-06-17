@@ -1,84 +1,103 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20I'm%20Akash%20Patel%20👋&fontSize=40&fontColor=ffffff" />
-</p>
-
-<h2 align="center">🚀 AI Engineer | B.Tech CSE Student</h2>
+```md
+<h1 align="center">Hi 👋, I'm Akash Patel</h1>
 
 <p align="center">
-  <a href="mailto:akashhpatel03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akashhpatel03@gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/aakash-patel-30835631b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Patel-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Python+Developer;Always+Learning+New+Things🚀" />
 </p>
+
+<h3 align="center">🚀 AI Engineer | B.Tech CSE Student</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech in Computer Science & Engineering**  
-🤖 **AI Engineer (Learner & Builder)**  
-💡 Passionate about **Machine Learning, DSA & Problem Solving**  
-🚀 Always learning new technologies and building cool projects  
+- 🎓 B.Tech in Computer Science & Engineering
+- 🤖 AI Engineer (Learner & Builder)
+- 📚 Passionate about Machine Learning, DSA & Problem Solving
+- 🌱 Currently exploring LLMs, NLP, RAG and Generative AI
+- ⚡ Always building and learning new technologies
 
 ---
 
-## 🧠 Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,pytorch,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,anaconda" />
 </p>
-
-### 🔹 Core Skills
-- ✅ Python Programming  
-- ✅ C / C++  
-- ✅ Data Structures & Algorithms (Basic)  
-- ✅ Machine Learning (Beginner Level)  
-- ✅ Problem Solving  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="180"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkashPatel-22&show_icons=true&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPatel-22&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatel-22&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aakash-patel-30835631b">
-    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Patel-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:akashhpatel03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-akashhpatel03@gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=AkashPatel-22&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> “Learning AI today to build the future tomorrow 🚀”
+## 🚀 Projects
+
+### 💳 CreditWise Loan System
+- Built a machine learning-based loan prediction system.
+- Performed EDA, feature engineering and model training.
+- Implemented using Python, Pandas and Scikit-Learn.
+
+### 🛒 SmartCart Clustering System
+- Developed a customer segmentation system using clustering.
+- Applied outlier handling and feature engineering.
+- Generated insights using machine learning and visualization.
+
+---
+
+## 📜 Certifications
+
+- Oracle Cloud Infrastructure (OCI) Generative AI Professional
+- Generative AI Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/AkashPatel-22">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=AkashPatel-22&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
+```
