@@ -1,103 +1,122 @@
 
-<h1 align="center">Hi 👋, I'm Akash Patel</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Python+Developer;Always+Learning+New+Things🚀" />
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Akash Patel
 
-<h3 align="center">🚀 AI Engineer | B.Tech CSE Student</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+Cool+Things+with+Python+🚀" />
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering
-- 🤖 AI Engineer (Learner & Builder)
-- 📚 Passionate about Machine Learning, DSA & Problem Solving
-- 🌱 Currently exploring LLMs, NLP, RAG and Generative AI
-- ⚡ Always building and learning new technologies
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+<img align="right" width="380" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-<p align="center">
+### 🧠 About Me
+
+```yaml
+Name: Akash Patel
+Role: AI Engineer
+Education: B.Tech CSE
+CGPA: 8.3
+Location: India
+
+Interests:
+  - Machine Learning
+  - Generative AI
+  - NLP
+  - LLMs
+  - RAG Systems
+
+Currently Learning:
+  - LangChain
+  - Agents
+  - Vector Databases
+  - n8n
+````
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,pytorch,git,github,vscode" />
-</p>
 
-<p align="center">
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=linux,anaconda" />
-</p>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkashPatel-22&show_icons=true&theme=tokyonight" />
+<div align="center">
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPatel-22&theme=tokyonight" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkashPatel-22&show_icons=true&theme=tokyonight&hide_border=true">
 
----
+<img width="49%" src="https://streak-stats.demolab.com?user=AkashPatel-22&theme=tokyonight&hide_border=true">
 
-## 📈 Most Used Languages
+</div>
 
-<p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatel-22&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatel-22&layout=compact&theme=tokyonight&hide_border=true">
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AkashPatel-22&theme=tokyonight&row=1&column=7" />
-</p>
+</div>
 
 ---
 
-## 🚀 Projects
+# 🏆 Achievements
+
+🏅 OCI Generative AI Professional Certified
+
+💡 Built Machine Learning Projects
+
+🧠 Solved 200+ DSA Problems
+
+🚀 Exploring LLMs & Generative AI
+
+---
+
+# 🚀 Featured Projects
 
 ### 💳 CreditWise Loan System
-- Built a machine learning-based loan prediction system.
-- Performed EDA, feature engineering and model training.
-- Implemented using Python, Pandas and Scikit-Learn.
+
+Machine Learning based Loan Approval Prediction System
+
+**Tech:** Python • Pandas • Scikit-Learn
+
+---
 
 ### 🛒 SmartCart Clustering System
-- Developed a customer segmentation system using clustering.
-- Applied outlier handling and feature engineering.
-- Generated insights using machine learning and visualization.
+
+Customer Segmentation using Unsupervised Learning
+
+**Tech:** Python • Pandas • Scikit-Learn
 
 ---
 
-## 📜 Certifications
+# 🌐 Connect With Me
 
-- Oracle Cloud Infrastructure (OCI) Generative AI Professional
-- Generative AI Fundamentals
+<div align="center">
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/AkashPatel-22">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AkashPatel-22&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
+![](https://komarev.com/ghpvc/?username=AkashPatel-22\&color=blueviolet)
+
+</div>
 
