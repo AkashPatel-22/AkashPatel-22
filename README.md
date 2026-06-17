@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=AKASH%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
@@ -40,7 +39,7 @@ Currently Learning:
 
 <td width="40%" align="center">
 
-<img width="280px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img width="250" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
 </td>
 
@@ -101,8 +100,6 @@ Currently Learning:
 
 Machine Learning based Loan Approval Prediction
 
-**Tech Stack**
-
 `Python` `Pandas` `Scikit-Learn`
 
 ---
@@ -110,8 +107,6 @@ Machine Learning based Loan Approval Prediction
 ## 🛒 SmartCart Clustering System
 
 Customer Segmentation using Unsupervised Learning
-
-**Tech Stack**
 
 `Python` `Pandas` `Scikit-Learn`
 
@@ -122,6 +117,16 @@ Customer Segmentation using Unsupervised Learning
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashPatel-22&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AkashPatel-22/AkashPatel-22/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
@@ -149,34 +154,14 @@ Customer Segmentation using Unsupervised Learning
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:akashhpatel03@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </div>
 
 ---
-
-# 👀 Profile Views
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=AkashPatel-22&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=AkashPatel-22&color=blueviolet)
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-
