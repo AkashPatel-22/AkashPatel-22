@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Akash Patel</h1>
 
 <p align="center">
@@ -100,4 +100,4 @@
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
 </p>
-```
+
