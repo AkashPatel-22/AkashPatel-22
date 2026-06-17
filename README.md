@@ -5,6 +5,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+with+LLMs+and+RAG;Always+Learning+New+Things+🚀"/>
 
+<br><br>
+
+<img width="280" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
 </div>
 
 ---
@@ -39,7 +43,7 @@ Currently Learning:
 
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,pytorch,git,github,vscode" />
 
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=linux,anaconda" />
 
@@ -133,15 +137,33 @@ Customer Segmentation using Unsupervised Learning
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="mailto:akashhpatel03@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </div>
 
 ---
 
+# 👀 Profile Views
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=AkashPatel-22&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=AkashPatel-22&color=blueviolet&style=for-the-badge)
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
