@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=AKASH%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=AKASH%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+with+LLMs+and+RAG;Always+Learning+New+Things+🚀"/>
 
@@ -13,13 +13,18 @@
 <table>
 <tr>
 
-<td width="60%">
+<td width="65%">
 
 ```yaml
 Name: Akash Patel
+
 Role: AI Engineer
-Education: B.Tech CSE
-CGPA: 8.3/10
+
+Education:
+  B.Tech Computer Science & Engineering
+
+CGPA:
+  8.3/10
 
 Interests:
   - Machine Learning
@@ -30,16 +35,16 @@ Interests:
 
 Currently Learning:
   - LangChain
-  - Agents
+  - AI Agents
   - n8n
   - Vector Databases
 ```
 
 </td>
 
-<td width="40%" align="center">
+<td width="35%" align="center">
 
-<img width="250" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img width="250" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 
 </td>
 
@@ -52,11 +57,29 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,pytorch,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,tensorflow,pytorch,git,github,vscode"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=linux,anaconda" />
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</div>
+
+---
+
+# 🧠 AI / ML Skills
+
+<div align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-orange?style=for-the-badge)
 
 </div>
 
@@ -76,39 +99,9 @@ Currently Learning:
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatel-22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatel-22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🏆 Achievements
-
-🏅 OCI Generative AI Professional Certified
-
-💡 Built Machine Learning Projects
-
-🧠 Solved 200+ DSA Problems
-
-🚀 Exploring LLMs, NLP and RAG
-
----
-
-# 🚀 Featured Projects
-
-## 💳 CreditWise Loan System
-
-Machine Learning based Loan Approval Prediction
-
-`Python` `Pandas` `Scikit-Learn`
-
----
-
-## 🛒 SmartCart Clustering System
-
-Customer Segmentation using Unsupervised Learning
-
-`Python` `Pandas` `Scikit-Learn`
 
 ---
 
@@ -126,9 +119,49 @@ Customer Segmentation using Unsupervised Learning
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AkashPatel-22/AkashPatel-22/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/AkashPatel-22/AkashPatel-22/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
+---
+
+# 🚀 Featured Projects
+
+## 💳 CreditWise Loan System
+
+Machine Learning based Loan Approval Prediction
+
+### Tech Stack
+
+`Python`
+`Pandas`
+`Scikit-Learn`
+`Matplotlib`
+
+---
+
+## 🛒 SmartCart Clustering System
+
+Customer Segmentation using Unsupervised Learning
+
+### Tech Stack
+
+`Python`
+`Pandas`
+`Scikit-Learn`
+`Matplotlib`
+
+---
+
+# 🏆 Achievements
+
+🏅 Oracle Cloud Infrastructure (OCI) Generative AI Professional Certified
+
+🧠 Solved 200+ Coding Problems
+
+💡 Built Multiple Machine Learning Projects
+
+🚀 Exploring LLMs, NLP and RAG Systems
 
 ---
 
@@ -154,14 +187,26 @@ Customer Segmentation using Unsupervised Learning
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="mailto:akashhpatel03@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=AkashPatel-22&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=AkashPatel-22&color=blueviolet&style=for-the-badge)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
