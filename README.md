@@ -1,11 +1,5 @@
 
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Akash Patel
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+Cool+Things+with+Python+🚀" />
-
-</div>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=AKASH%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+with+LLMs+and+RAG;Always+Learning+New+Things+🚀"/> </div>
 
 ---
 
@@ -97,17 +91,16 @@ Customer Segmentation using Unsupervised Learning
 **Tech:** Python • Pandas • Scikit-Learn
 
 ---
-
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/aakash-patel03/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/AkashPatel-22">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="mailto:akashhpatel03@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </div>
@@ -116,7 +109,10 @@ Customer Segmentation using Unsupervised Learning
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=AkashPatel-22\&color=blueviolet)
+# 💙 Thank You For Visiting My Profile!
+
+⭐ Feel free to connect and collaborate.
+
+<br><br>
 
 </div>
-
