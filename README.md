@@ -48,18 +48,17 @@ Currently Learning:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkashPatel-22&show_icons=true&theme=tokyonight&hide_border=true">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPatel-22&theme=tokyonight&hide_border=true">
-<!-- <img width="49%" src="https://streak-stats.demolab.com?user=AkashPatel-22&theme=tokyonight&hide_border=true"> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkashPatel-22&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPatel-22&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatel-22&layout=compact&theme=tokyonight&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatel-22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🏆 Achievements
