@@ -78,13 +78,19 @@ Currently Learning:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkashPatel-22&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPatel-22&theme=tokyonight&hide_border=true"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashPatel-22&theme=github_dark"/>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatel-22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashPatel-22&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashPatel-22&theme=github_dark"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkashPatel-22&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashPatel-22&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
