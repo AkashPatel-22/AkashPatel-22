@@ -65,23 +65,11 @@
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashPatel-22&theme=github_dark"/>
-
 <br><br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkashPatel-22&show_icons=true&theme=react&hide_border=true&count_private=true"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPatel-22&theme=react&hide_border=true"/>
-
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashPatel-22&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashPatel-22&theme=github_dark"/>
-
-<br><br>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashPatel-22&theme=github_dark&utcOffset=5.5"/>
 
 <br><br>
 
