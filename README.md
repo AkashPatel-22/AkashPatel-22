@@ -1,45 +1,43 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24,30&text=AKASH%20PATEL&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20•%20Generative%20AI%20Developer%20•%20ML%20Enthusiast&descAlignY=58&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=AKASH%20PATEL&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20|%20Generative%20AI%20Developer&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=750&height=50&lines=Building+AI+Products+with+LLMs+🤖;Machine+Learning+%7C+RAG+%7C+Agents+%7C+NLP;Turning+Data+into+Decisions+📊;Always+Learning+Something+New+🚀"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aakash-patel03/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:akashhpatel03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/AkashPatel-22" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkashPatel-22&label=PROFILE+VIEWS&color=00E7FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/AkashPatel-22?style=for-the-badge&logo=github&color=181717"/>
-  <img src="https://img.shields.io/github/stars/AkashPatel-22?style=for-the-badge&logo=github&color=FFD700"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+LLM-Powered+Applications;AI+Agents+%7C+RAG+%7C+Machine+Learning;Turning+Ideas+into+Intelligent+Systems;Always+Learning+%26+Building+🚀"/>
 
 </div>
 
 <br>
 
-## 🧠 About Me
 
-```yaml
-Name: Akash Patel
-Role: AI Engineer
-Education: B.Tech CSE (CGPA: 8.3)
-Location: India 🇮🇳
-Focus:
-  - Generative AI & LLM Applications
-  - Retrieval-Augmented Generation (RAG)
-  - AI Agents & Autonomous Workflows
-  - NLP & Machine Learning
-Currently Learning:
-  - LangChain
-  - AI Agents
-  - Vector Databases
-  - n8n Automation
-Fun Fact: I teach machines to think, then wonder why my code doesn't 😄
-```
+---
 
+# ✨ 4. Better About Me
+
+Replace YAML with this:
+
+```md
+## 👨‍💻 About Me
+
+- 🤖 Passionate **AI Engineer** focused on building intelligent applications.
+- 🧠 Working with **LLMs, RAG, AI Agents & Machine Learning**.
+- 📚 Currently exploring **LangGraph, MCP, Vector Databases & n8n**.
+- 🚀 Always building projects that solve real-world problems using AI.
+
+---
+
+## 🧠 AI Specializations
+
+<div align="center">
+
+| 🤖 AI | 📚 ML | ⚡ GenAI | 🔍 NLP |
+|:---:|:---:|:---:|:---:|
+| LLMs | Deep Learning | RAG | Transformers |
+| AI Agents | Scikit-Learn | LangChain | Embeddings |
+| Prompt Engineering | TensorFlow | OpenAI API | Vector DB |
+
+</div>
+
+---
 <br>
 
 ## ⚡ Tech Stack
@@ -181,21 +179,13 @@ Unsupervised clustering model that segments customers for targeted marketing.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aakash-patel03/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:akashhpatel03@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/AkashPatel-22" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 💙 Building AI Today, Shaping Tomorrow.
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
-
-<br>
-
-<div align="center">
 
 ### 💙 Thanks for stopping by!
 *⭐ If you like my work, drop a star on my repos — feel free to connect and collaborate.*
