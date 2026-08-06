@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=AKASH%20PATEL&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20|%20Generative%20AI%20Developer&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+LLM-Powered+Applications;AI+Agents+%7C+RAG+%7C+Machine+Learning;Turning+Ideas+into+Intelligent+Systems;Always+Learning+%26+Building+🚀"/>
-
 </div>
 
 ---
@@ -14,20 +12,6 @@
 - 🧠 Working with **LLMs, RAG, AI Agents & Machine Learning**.
 - 📚 Currently exploring **LangGraph, MCP, Vector Databases & n8n**.
 - 🚀 Always building projects that solve real-world problems using AI.
-
----
-
-# 🧠 AI Specializations
-
-<div align="center">
-
-| 🤖 AI | 📚 ML | ⚡ GenAI | 🔍 NLP |
-|:---:|:---:|:---:|:---:|
-| LLMs | Deep Learning | RAG | Transformers |
-| AI Agents | Scikit-Learn | LangChain | Embeddings |
-| Prompt Engineering | TensorFlow | OpenAI API | Vector DB |
-
-</div>
 
 ---
 
@@ -173,9 +157,6 @@ Customer segmentation using unsupervised machine learning.
 <div align="center">
 
 ### 💙 Building AI Today, Shaping Tomorrow.
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 <br><br>
 
 ⭐ **If you like my work, consider starring my repositories and let's connect!**
