@@ -1,0 +1,104 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Your GitHub Username
+          user: AkashPatel-22
+
+          filename: github-metrics.svg
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+
+          ####################################
+          ## Languages
+          ####################################
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: programming
+          plugin_languages_ignored: html,css
+
+          ####################################
+          ## Achievements
+          ####################################
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+
+          ####################################
+          ## Stars
+          ####################################
+
+          plugin_stars: yes
+
+          ####################################
+          ## Calendar
+          ####################################
+
+          plugin_isocalendar: yes
+
+          ####################################
+          ## Habits
+          ####################################
+
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_from: 200
+
+          ####################################
+          ## Repositories
+          ####################################
+
+          plugin_repositories: yes
+          plugin_repositories_featured: 6
+
+          ####################################
+          ## Follow-up
+          ####################################
+
+          plugin_followup: yes
+
+          ####################################
+          ## Topics
+          ####################################
+
+          plugin_topics: yes
+          plugin_topics_limit: 15
+
+          ####################################
+          ## Lines of Code
+          ####################################
+
+          plugin_lines: yes
+
+          ####################################
+          ## Introduction
+          ####################################
+
+          plugin_introduction: yes
+          plugin_introduction_title: yes
