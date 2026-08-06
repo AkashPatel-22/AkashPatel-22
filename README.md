@@ -6,17 +6,9 @@
 
 </div>
 
-<br>
-
-
 ---
 
-# ✨ 4. Better About Me
-
-Replace YAML with this:
-
-```md
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🤖 Passionate **AI Engineer** focused on building intelligent applications.
 - 🧠 Working with **LLMs, RAG, AI Agents & Machine Learning**.
@@ -25,7 +17,7 @@ Replace YAML with this:
 
 ---
 
-## 🧠 AI Specializations
+# 🧠 AI Specializations
 
 <div align="center">
 
@@ -38,29 +30,32 @@ Replace YAML with this:
 </div>
 
 ---
-<br>
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <details open>
 <summary><b>🔤 Languages & Core</b></summary>
+
 <br>
+
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,linux,anaconda,git,github,vscode"/>
+
 </details>
 
 <br>
 
 <details open>
 <summary><b>🤖 AI / ML / GenAI</b></summary>
+
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </details>
@@ -69,6 +64,7 @@ Replace YAML with this:
 
 <details open>
 <summary><b>🛠️ Tools & Platforms</b></summary>
+
 <br>
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -81,7 +77,7 @@ Replace YAML with this:
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -90,11 +86,13 @@ Replace YAML with this:
 <br><br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkashPatel-22&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashPatel-22&theme=react&hide_border=true"/>
 
 <br><br>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashPatel-22&theme=github_dark"/>
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashPatel-22&theme=github_dark"/>
 
 <br><br>
@@ -109,73 +107,68 @@ Replace YAML with this:
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
+
 <img width="98%" src="https://raw.githubusercontent.com/AkashPatel-22/AkashPatel-22/output/github-contribution-grid-snake-dark.svg"/>
-</div>
 
-> ⚙️ Animates automatically once you add the workflow file — setup steps are in the chat reply below.
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AkashPatel-22&theme=darkhub&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
 
-## 🏅 Achievements
+# 🏅 Achievements
 
 - 🏅 OCI Generative AI Professional Certified
 - 🧠 Solved 200+ DSA Problems
-- 💡 Built end-to-end Machine Learning projects
-- 🚀 Actively exploring LLMs, RAG & AI Agents
+- 💡 Built end-to-end Machine Learning Projects
+- 🚀 Exploring LLMs, RAG & AI Agents
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💳 CreditWise
+
 **Loan Approval Prediction System**
 
-ML-based system that predicts loan approval outcomes using applicant financial data.
+ML model for predicting loan approval using applicant financial data.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-<!-- 🔧 Replace # with your actual repo link -->
-🔗 [View Repository](#)
+🔗 **Repository:** *(Add Link)*
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🛒 SmartCart
+
 **Customer Segmentation Engine**
 
-Unsupervised clustering model that segments customers for targeted marketing.
+Customer segmentation using unsupervised machine learning.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-<!-- 🔧 Replace # with your actual repo link -->
-🔗 [View Repository](#)
+🔗 **Repository:** *(Add Link)*
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -183,13 +176,12 @@ Unsupervised clustering model that segments customers for targeted marketing.
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
+<br><br>
+
+⭐ **If you like my work, consider starring my repositories and let's connect!**
+
+<br><br>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
-
-</div>
-
-### 💙 Thanks for stopping by!
-*⭐ If you like my work, drop a star on my repos — feel free to connect and collaborate.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
 
 </div>
